@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\obj\Debug\net6.0\Slop.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\obj\Debug\net6.0\Slop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\obj\Debug\net6.0\Slop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\obj\Debug\net6.0\Slop.AssemblyInfo.cs
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\obj\Debug\net6.0\Slop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\bin\Debug\net6.0\Slop.exe
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\bin\Debug\net6.0\Slop.deps.json
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\bin\Debug\net6.0\Slop.runtimeconfig.json
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\bin\Debug\net6.0\Slop.dll
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\bin\Debug\net6.0\Slop.pdb
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\obj\Debug\net6.0\Slop.dll
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\obj\Debug\net6.0\refint\Slop.dll
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\obj\Debug\net6.0\Slop.pdb
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\obj\Debug\net6.0\Slop.genruntimeconfig.cache
+C:\Users\User\Desktop\School\CST-201\Week 4\Slop\obj\Debug\net6.0\ref\Slop.dll
